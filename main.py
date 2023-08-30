@@ -11,3 +11,8 @@ with col2:
               " and enjoys solving interesting problems.I graduated in 2023 with a Master of Science"\
               " in Visual Computing from Saarland University in Germany with a focus on Machine Learning, AI, and Neuroscience areas."
     st.info(content)
+
+content2="""
+        Below you can find some of the apps I have built in python. Feel free to contact me!
+        "
+st.write(content2)
